@@ -1,38 +1,51 @@
-[
-  {
-    "name": "John Smith",
-    "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae lacinia erat. Nullam et augue eget libero euismod fringilla. Pellentesque in odio lacus.",
-    "profilePic": "",
-    "degree": "Comp sci"
-  },
-  {
-    "name": "John Smith",
-    "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae lacinia erat. Nullam et augue eget libero euismod fringilla. Pellentesque in odio lacus.",
-    "profilePic": "",
-    "degree": "Comp sci"
-  },
-  {
-    "name": "John Smith",
-    "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae lacinia erat. Nullam et augue eget libero euismod fringilla. Pellentesque in odio lacus.",
-    "profilePic": "",
-    "degree": "Comp sci"
-  },
-  {
-    "name": "John Smith",
-    "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae lacinia erat. Nullam et augue eget libero euismod fringilla. Pellentesque in odio lacus.",
-    "profilePic": "",
-    "degree": "Comp sci"
-  },
-  {
-    "name": "John Smith",
-    "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae lacinia erat. Nullam et augue eget libero euismod fringilla. Pellentesque in odio lacus.",
-    "profilePic": "",
-    "degree": "Comp sci"
-  },
-  {
-    "name": "John Smith",
-    "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae lacinia erat. Nullam et augue eget libero euismod fringilla. Pellentesque in odio lacus.",
-    "profilePic": "",
-    "degree": "Comp sci"
-  }
-]
+[{
+	"title": "Eligo Vindico",
+	"field_class": "Law",
+	"field_picture": "https://codycollicott.github.io/yearbook/Assets/person2.jpg",
+	"field_quote": "Importunus oppeto velit. Brevitas commoveo dolor laoreet lobortis loquor nunc os patria. Eros nobis pertineo rusticus. Accumsan adipiscing quae quis tego. Consectetuer dignissim duis premo quidne rusticus sudo suscipit tamen. Pneum populus praesent premo quibus valetudo vereor verto vindico.\r\n"
+}, {
+	"title": "Lenis Lucius",
+	"field_class": "Veterinary Medicine",
+	"field_picture": "https://codycollicott.github.io/yearbook/Assets/person2.jpg",
+	"field_quote": "Accumsan amet comis ea hos nisl premo quidem secundum singularis. Brevitas iriure sit. Accumsan comis enim lobortis neo pecus. Consequat enim importunus obruo. Augue blandit esse facilisi nunc os praemitto quis tincidunt usitas. Conventio jus melior persto pertineo probo refero. Cogo elit nunc pertineo plaga. Capto exputo iaceo ideo jugis. Camur conventio cui eu neo neque nibh populus sed.\r\n"
+}, {
+	"title": "Singularis Cui",
+	"field_class": "Medical Science",
+	"field_picture": "https://codycollicott.github.io/yearbook/Assets/person2.jpg",
+	"field_quote": "Defui hendrerit obruo validus. Abluo enim facilisi interdico magna neo persto saepius vindico. Camur gilvus imputo olim te vereor. Antehabeo commodo gilvus ideo ludus natu refero refoveo zelus. Cogo exerci facilisi tation.\r\n"
+}, {
+	"title": "Neo Revcoveo",
+	"field_class": "Political Science",
+	"field_picture": "https://codycollicott.github.io/yearbook/Assets/person2.jpg",
+	"field_quote": "Acsi ad cui defui quae uxor. Cogo nostrud nulla paratus. Aliquip amet blandit brevitas ex feugiat premo si utrum. Conventio dolus esca hendrerit iustum nisl torqueo. Camur decet gemino interdico patria si vereor. Exerci occuro paratus pneum quis utinam. Decet in refoveo. Bene conventio ea enim humo letalis odio patria si.\r\n"
+}, {
+	"title": "Exerci Vel",
+	"field_class": "Art History",
+	"field_picture": "https://codycollicott.github.io/yearbook/Assets/person2.jpg",
+	"field_quote": "Loquor nisl pertineo quibus sudo suscipere voco. Defui dolore facilisis nunc pagus verto volutpat vulpes. Eum importunus magna mos nisl ratis. Dolus gilvus haero hos letalis meus molior nutus utrum voco. Abdo accumsan exputo gilvus iaceo jus olim proprius sit. Jugis molior occuro pagus quibus usitas vulputate. Ea importunus loquor minim virtus. Erat importunus mos.\r\n"
+}, {
+	"title": "Autem Importunus",
+	"field_class": "Literature",
+	"field_picture": "https://codycollicott.github.io/yearbook/Assets/person2.jpg",
+	"field_quote": "Consequat iaceo saluto tum verto. Antehabeo comis damnum illum minim nisl secundum suscipit. Ea eum exerci luctus quis saluto velit. Si tego vulputate ymo. Autem fere lucidus luctus nibh nostrud obruo occuro scisco tum. Dolor eum gravis iustum minim nunc quidne refoveo veniam wisi. Antehabeo at consectetuer eligo elit mauris.\r\n\r\n"
+}, {
+	"title": "Dignissim impetus",
+	"field_class": "Law",
+	"field_picture": "https://codycollicott.github.io/yearbook/Assets/person2.jpg",
+	"field_quote": "Nimis sudo ullamcorper. Dignissim exerci huic quibus similis vulputate. Dolus neque olim. Blandit caecus capto esse pala praemitto quae validus vulputate. Blandit distineo ideo immitto macto nisl odio olim validus. Laoreet nibh praesent si vindico.\r\n"
+}, {
+	"title": "Lucidus Vadicio",
+	"field_class": "Environmental Policy",
+	"field_picture": "https://codycollicott.github.io/yearbook/Assets/person2.jpg",
+	"field_quote": "Eum tincidunt utinam. Abdo ludus scisco ullamcorper valde. Aliquam brevitas dolus humo ideo lobortis natu patria pertineo quidem. Abbas abigo fere nulla nutus oppeto pagus tincidunt turpis vulputate.\r\n"
+}, {
+	"title": "Exputo Imputo",
+	"field_class": "Chemistry",
+	"field_picture": "https://codycollicott.github.io/yearbook/Assets/person2.jpg",
+	"field_quote": "Abbas comis distineo dolor lobortis meus persto vel. Abbas caecus cogo defui mauris melior quidne refoveo vicis. Comis iriure macto occuro plaga tincidunt. Hendrerit illum inhibeo interdico luctus nostrud nunc paulatim utrum verto. Importunus turpis valetudo virtus. Ad diam euismod fere feugiat gemino paratus sagaciter sino ut. Cogo enim natu.\r\n"
+}, {
+	"title": "Abigo Obruo",
+	"field_class": "Environmental Policy",
+	"field_picture": "https://codycollicott.github.io/yearbook/Assets/person2.jpg",
+	"field_quote": "Camur commodo consequat decet neo roto. Aliquam capto diam ex nisl nulla probo uxor velit. Abigo cogo comis defui saepius volutpat. Abbas euismod in neque veniam. Esca populus te verto.\r\n"
+}]
